@@ -45,3 +45,6 @@ Now, as more and more internet posts are created with its help, various sites us
    ```
    python3 script.py
    ```
+
+
+   ``` NOTE : Replace the location of Input and Output & The Input should be in Text File ```
